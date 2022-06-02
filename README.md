@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/87933510/171720484-e55dfe1d-5bd5-484c-b27e-4049d41f40cb.png)
+![image](https://user-images.githubusercontent.com/87933510/171720654-14618145-1a1b-42e0-853c-0704c0494649.png)
 
 <!--
 **erickayalarias/erickayalarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickayalarias)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=erickayalarias)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
