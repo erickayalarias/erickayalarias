@@ -2,9 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on Projects that i can grow in development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/erick-ayala-arias/)
