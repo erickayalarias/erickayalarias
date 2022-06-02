@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/87933510/171720654-14618145-1a1b-42e0-853c-0704c0494649.png)
-
+![snake gif]([https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif](https://github.com/erickayalarias/erickayalarias/blob/output/github-contribution-grid-snake.gif))
 
 
 - 🌱 I’m currently learning everything
