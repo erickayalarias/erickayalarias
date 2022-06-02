@@ -1,7 +1,6 @@
 ![image](https://user-images.githubusercontent.com/87933510/171720654-14618145-1a1b-42e0-853c-0704c0494649.png)
 
-<!--
-**erickayalarias/erickayalarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
