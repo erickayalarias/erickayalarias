@@ -7,5 +7,4 @@
 - ⚡ Awards: Winner of the Hackaton Mobile World Congress 2022 in Barcelona and Winner of an award by Adidas in the Hackaton in JobBarcelona organized in the Camp Nou.
 
 
-// [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickayalarias)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
