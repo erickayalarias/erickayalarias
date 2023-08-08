@@ -7,4 +7,4 @@
 - ⚡ Awards: Winner of the Hackaton Mobile World Congress 2022 in Barcelona and Winner of an award by Adidas in the Hackaton in JobBarcelona organized in the Camp Nou.
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
